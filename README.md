@@ -7,4 +7,5 @@ https://documenter.getpostman.com/view/21210538/Uz5FLHg9#99a983a7-347f-4d24-aee5
 Run
 - Setup .env like .env.example
 - composer update
+- php artisan migrate
 - DB:seed 
